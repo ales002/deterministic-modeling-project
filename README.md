@@ -1,3 +1,3 @@
 # deterministic-modeling-project
 
-Optimizing the location of heaters to optimize the temperature inside the house.
+Optimizing the placement of heaters to optimize the temperature inside the house.
